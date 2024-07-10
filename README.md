@@ -1,5 +1,5 @@
 ##  NARUTO MD
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+naruto+x+md+Created+by+mpeneti .&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+naruto+md+Created+by+mpeneti_.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
  <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/4ef1f9946b51f95efd26b.jpg">
   
@@ -71,7 +71,7 @@ THANKS TO
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/263789660160" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ fiest developer -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/  fiest    developer -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 
@@ -83,7 +83,7 @@ CONTACT DEVELOPER ON WHATSAPP
 
   
  
-<a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M" target="_blank">
+<a href="https://whatsapp.com/channel/0029VaZpBvk17EmqqDyMrG2i" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ JOEL  MD   CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
