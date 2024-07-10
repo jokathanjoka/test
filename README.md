@@ -1,38 +1,92 @@
- <p align="center">  
-  <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
-  </a>
-</p>
+##  NARUTO MD
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+naruto+x+md+Created+by+mpeneti .&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
+ <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/4ef1f9946b51f95efd26b.jpg">
+  
+<h1 align="center"> mpeneti & joel-tech  </h1> 
+<p align="center">l introduce <b>naruto md </b>, a powerful simple WhatsApp bot </p>
 
 
-
-<p align="center">
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT"><img title="Author" src="https://img.shields.io/badge/THE PRINCE BOT-black?style=for-the-badge&logo=github"></a>
-<p/>
-
-<p align="center">
-<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/THE-PRINCE-BOT?&style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/THE-PRINCE-BOT?style=social"></a>
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
-</p>
+    
  
- <h1 align="center">𝗣𝗥𝗜𝗡𝗖𝗘-𝗠𝗗-𝗕𝗢𝗧</h1>
-
-****
+ 
 
 
-### 💌-----------------------👇🏻𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘👇🏻-------------------------💌
 
-
-<p align="left">
-<a href="https://gd-sdeploy.vercel.app/PRINCE-MD-WEB-main/projects/index.html"><img height= "70" title="Author" src="https://img.shields.io/badge/𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧 𝗔𝗟𝗟 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧𝗦-032B44?style=for-the-badge&logo=vercel"></a>
-<p/>
-
-
-****
+---
 
 
 
 
+
+## HOW TO DEPLOY JOEL BUG BOT
+
+
+## 1.FIRST STEP 
+
+
+<a href=""><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+star✨ my repo if you like this bot🤖
+
+
+## 2.SECOND STEP 
+
+
+ GET SESSION ID BY
+ 
+
+<a href=""><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+ 
+
+<a href=""><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+
+
+## 3.THIRD STEP 
+
+
+DEPLOY ON 
+
+<a
+      href='' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+##
+
+
+
+
+
+THANKS TO 
+
+1.myself (mpeneti)
+
+
+
+2.joel kang'oma (always supporter)
+
+
+
+
+CONTACT DEVELOPER ON WHATSAPP 
+
+<a href="https://wa.me/255714595078" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ fiest developer -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+
+
+
+ <a href="https://wa.me/255714595078" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ second developer -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+  
+ 
+<a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ JOEL  MD   CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ 
+
+
+     
 
