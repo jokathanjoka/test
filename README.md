@@ -84,7 +84,7 @@ CONTACT DEVELOPER ON WHATSAPP
   
  
 <a href="https://whatsapp.com/channel/0029VaZpBvk17EmqqDyMrG2i" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ JOEL  MD   CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ NARUTO  MD   CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 
