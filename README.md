@@ -19,7 +19,7 @@
 
 
 
-## HOW TO DEPLOY JOEL BUG BOT
+## HOW TO DEPLOY NARUTO MD
 
 
 ## 1.FIRST STEP 
@@ -70,7 +70,7 @@ THANKS TO
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/255714595078" target="_blank">
+<a href="https://wa.me/263789660160" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ fiest developer -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
