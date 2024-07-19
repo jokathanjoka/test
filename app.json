@@ -1,9 +1,9 @@
 {
-  "name": "PRINCE-BOT",
-  "description": "Prince MD A WhatsApp User BOT",
-  "logo": "https://telegra.ph/file/d9bcfd1ae673ebd58bd3e.jpg",
+  "name": "NARUTO-BOT",
+  "description": "NARUTO MD A WhatsApp User BOT",
+  "logo": "https://telegra.ph/file/4ef1f9946b51f95efd26b.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/PRINCE-GDS/MR-PRINCE-BOT",
+  "repository": "https://github.com/Mpeneti/NARUTO-MD/tree/main",
   
   "stack": "container",
   "env": {
@@ -31,7 +31,7 @@
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "naruto"
        },
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
@@ -41,22 +41,22 @@
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "yes"
        },
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ-ᴘʀɪɴᴄᴇ-ᴍᴅ-ʙᴏᴛ"
+      "value": "NARUTO MD"
       },
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "💌--------------------ᴘʀɪɴᴄᴇ-ᴍᴅ----------------------💌"
+      "value": "💌--------------------NARUTO MD----------------------💌"
        },
     "STATUSVIEW": {
       "description": "Make it true if you want bot to view status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AutoReaction": {
       "description": "Make it true if you want bot to react on chats",
