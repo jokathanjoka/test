@@ -1,7 +1,7 @@
 ##  NARUTO MD
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+naruto+md+Created+by+mpeneti_.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
- <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/4ef1f9946b51f95efd26b.jpg">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Naruto+Bot+Created+by+M.Peneti__.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://whatsapp.com/channel/0029VaZpBvk17EmqqDyMrG2i">
+ <img alt="NARUTO BOT" height="300" src="https://telegra.ph/file/4ef1f9946b51f95efd26b.jpg">
   
 <h1 align="center"> mpeneti & joel-tech  </h1> 
 <p align="center">l introduce <b>naruto md </b>, a powerful simple WhatsApp bot </p>
@@ -59,25 +59,25 @@ DEPLOY ON
 
 THANKS TO 
 
-1.myself (mpeneti)
+1.Myself (M.Peneti)
 
 
 
-2.joel kang'oma (always supporter)
+2.Joel kang'oma (always supporter)
 
 
 
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/263789660160" target="_blank">
+<a href="https://wa.me/263789660160?text=Hey+M.Peneti" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/  fiest    developer -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 
 
 
- <a href="https://wa.me/255714595078" target="_blank">
+ <a href="https://wa.me/255714595078?text=Hey+JoeTech" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ second developer -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
