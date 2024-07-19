@@ -10,7 +10,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;Prince;923092668108;GDS"
+      "value": "263789660160;255714595078;255781144539"
 
      },
       "DATABASE_URL": {
@@ -36,7 +36,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
